@@ -1,0 +1,11 @@
+name: videowall
+title:
+username:
+account: desarrolloaplicaciones
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4126766
+bundleId: 4594847
+url: https://desarrolloaplicaciones.shinyapps.io/videowall/
+when: 1620924166.21261
+lastSyncTime: 1620924166.21261
